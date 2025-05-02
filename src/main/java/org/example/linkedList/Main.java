@@ -21,5 +21,6 @@ public class Main {
 
         list.clear();
         System.out.println(list);
+        System.out.println("Программа завершена");
     }
 }
